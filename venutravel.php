@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>One Wood Design | 585.698.3089 | Home</title>
+    <title>One Wood Design | 585.698.3089 | Venu/Travel</title>
 		<link href='https://fonts.googleapis.com/css?family=Muli|Josefin+Sans:400,700,700italic,400italic,300italic,300' rel='stylesheet' type='text/css'>
     <link href="_/css/bootstrap.css" rel="stylesheet">
     <link href="_/css/mystyles.css" rel="stylesheet">
@@ -17,7 +17,7 @@
     <![endif]-->
 		
   </head>	
-  <body id="home">
+  <body id="venutravel">
 		
 		<section class="container">
 			<div class="content row">
