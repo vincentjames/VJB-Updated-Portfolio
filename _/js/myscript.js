@@ -7,6 +7,7 @@ $(function(){$("ul.nav li.dropdown").hover(function(){$(".dropdown-menu",this).f
 	$("#venuetravel a:contains('Venue/Travel')").parent().addClass('active');
 	$("#register a:contains('Register')").parent().addClass('active');						
 						
-						
+	$("[data-toggle='tooltip']").tooltip({animation: true});
+					
 						
 });
